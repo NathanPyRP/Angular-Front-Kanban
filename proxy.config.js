@@ -2,7 +2,7 @@
 const proxy = [
 {
 context: '/api',
-target: 'https://backend-kanban.onrender.com:10000',
+target: 'https://backend-kanban.onrender.com',
 pathRewrite: { '^/api': '' }
 }
 ];
