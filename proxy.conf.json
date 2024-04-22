@@ -1,6 +1,6 @@
 {
   "/api": {
-    "target": "https://backend-kanban.onrender.com:3000",
+    "target": "https://backend-kanban.onrender.com:10000",
     "secure": false,
     "pathRewrite": {
       "^/api": ""
